@@ -1,4 +1,8 @@
 ---
+tags:
+    - Tag1
+    - Tag2
+    - Tag3
 categories:
     - Cat1
     - Cat2

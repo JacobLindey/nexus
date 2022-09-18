@@ -15,7 +15,7 @@ theme:
       primary: pink
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
@@ -24,7 +24,7 @@ theme:
       primary: pink
       accent: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 
 # Extensions
@@ -50,6 +50,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - tags
   - roamlinks 
   - mermaid2
   - categories
