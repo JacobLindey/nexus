@@ -1,4 +1,9 @@
-site_name: obsidian-mkdocs template
+site_name: Timescape Nexus
+site_url: https://jacoblindey.github.io/nexus
+repo_url: https://github.com/JacobLindey/nexus
+
+site_description: ""
+site_author: "Jacob Lindey"
 
 theme:
     name: 'material'
@@ -47,6 +52,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - categories
 
 extra_javascript:
   - javascripts/mathjax.js
