@@ -30,12 +30,13 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - admonition
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.details
   # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
