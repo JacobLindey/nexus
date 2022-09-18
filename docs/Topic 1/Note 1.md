@@ -12,7 +12,7 @@ categories:
 
 Some text before the info block should render around the inline block.
 
-!!! info "" inline end
+!!! info ""
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
